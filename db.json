@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on 10.46.0.89 ",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-11-07T01:27:17.516Z"
+    },
+    {
+      "id": 3,
+      "message": "Urgent! #028 server has no back-up since 2 days!!",
+      "attention": true,
+      "tech": "Jane Smith",
+      "date": "2021-11-07T01:27:12.532Z"
+    },
+    {
+      "id": 7,
+      "message": "wifi router on floor 24 has connection issue",
+      "attention": false,
+      "tech": "Richard Miles",
+      "date": "2021-11-07T01:28:01.366Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "id": 4
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Miles",
+      "id": 5
+    }
+  ]
+}
